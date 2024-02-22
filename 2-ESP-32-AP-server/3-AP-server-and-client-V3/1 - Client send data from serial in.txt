@@ -1,0 +1,2 @@
+1 - Client send data from serial input
+2 - Server read all data as String
